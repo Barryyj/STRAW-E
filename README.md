@@ -1,6 +1,6 @@
 # STRAW-E
 
-STRAW-E is an ESP32-based remote-controlled robot straw.
+STRAW-E is a multi-purpose ESP32-based remote-controlled robotic straw. :D
 
 ## Installation
 
