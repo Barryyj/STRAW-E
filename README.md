@@ -1,6 +1,6 @@
 # STRAW-E
 
-STRAW-E is a simple ESP32-based remote-controlled system. It connects to your WiFi network and allows remote operation through a Python script.
+STRAW-E is an ESP32-based remote-controlled robot straw.
 
 ## Installation
 
