@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include "ESP32Servo.h"
 
-const char* ssid = ">>>";       // Replace with your WiFi network name, like UofT
+const char* ssid = "???";       // Replace with your WiFi network name, like UofT
 const char* password = "???";   // Replace with your WiFi password
 
 WiFiServer server(80);
