@@ -20,7 +20,7 @@ STRAW-E is a multi-purpose ESP32-based remote-controlled robotic straw. :D
 4. **Find the Device's IP Address:**
    - Open the Serial Monitor in Arduino IDE.
    - Once connected to WiFi, the ESP32 will print its IP address.
-5. Edit remote_control.py to replace the ip addres.
+5. Edit remote_control.py to replace the IP address.
 
 ## Running the Remote Control Script
 1. **Install dependencies:**
